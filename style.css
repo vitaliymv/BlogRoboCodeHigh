@@ -1,0 +1,41 @@
+body {
+	font-family: segoe print;
+	padding: 20px;
+	background: aqua;
+}
+
+.header {
+	background-color: tomato;
+	padding: 40px;
+	text-align: center;
+}
+
+.card-header {
+	background-color: #8BFF8E;
+	transition: 0.2s;
+}
+
+.card:hover .card-header {
+	background-color: #51EF55;
+	transition: 0.2s;
+}
+
+.img {
+	background-color: #aaa;
+	padding: 20px;
+	background-size: cover;
+	background-position: center;
+}
+
+i {
+	padding-right: 30px;
+}
+
+a {
+	color: black;
+}
+
+.footer {
+	background-color: tomato;
+	text-align: center;
+}
